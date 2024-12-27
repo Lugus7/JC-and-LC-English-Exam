@@ -1,0 +1,24 @@
+{
+    "Premium Items": {
+        "In-depth Study Notes": {
+            "Price": 50,
+            "Description": "Comprehensive notes covering key topics and themes in the curriculum."
+        },
+        "One-to-One Lessons": {
+            "Price": 50,
+            "Description": "Personalized lessons focusing on specific areas of the course that need attention."
+        },
+        "Comprehensive Walkthrough of the Paper": {
+            "Price": 25,
+            "Description": "A detailed guide to navigating the exam paper effectively."
+        },
+        "Review of Scripts from Mock Exams and Feedback": {
+            "Price": 17.5,
+            "Description": "Detailed review of mock exam scripts with constructive feedback."
+        },
+        "Bundle Offer": {
+            "Price": 77,
+            "Description": "All five downloads at a discounted price."
+        }
+    }
+}
